@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/detailed_img"
+        android:layout_margin="10dp"
+        android:layout_width="130dp"
+        android:src="@drawable/foodeight"
+        android:layout_height="110dp"
+        app:civ_border_width="2dp"
+        app:civ_border_color="@color/purple_500"  />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="4dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/amarante"
+                android:id="@+id/detailed_name"
+                android:maxLines="1"
+                android:layout_marginTop="7dp"
+                android:singleLine="true"
+                android:textStyle="bold"
+                android:text="Name"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/detailed_desc"
+                android:fontFamily="@font/amarante"
+                android:text="@string/description"
+                android:layout_marginTop="4dp"
+                />
+
+
+
+
+
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

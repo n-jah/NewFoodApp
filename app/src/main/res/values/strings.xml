@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GoldenTeamProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="dialy_meal">Dialy Meal</string>
+    <string name="favourite">Favourite</string>
+    <string name="user_name_1">Ahmed Nagah</string>
+    <string name="log_out">Log out</string>
+    <string name="new_food_app">New Food App</string>
+    <string name="hello_explore_new_your_food">hello explore new your food</string>
+    <string name="sign_in">Sign in</string>
+    <string name="hello_explore_new_in_your_food">hello explore new in your food</string>
+    <string name="register">register</string>
+    <string name="full_name">full name</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="sign_in_">Sign In</string>
+    <string name="sign_up">sign_up</string>
+    <string name="title_activity_home">Home</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+
+</resources>
