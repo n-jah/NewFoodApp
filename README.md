@@ -8,3 +8,6 @@ Developed a user interface within the xml file using coordinatorlayout, constrai
 Implemented functinality to the UI: onCreate, onAddItem, setupListViewListener, readItems, & writeItems.
 Integrated setOnItemLongClickListener to remove items from the list.
 Use a SQLite Database with Android Studio and SharedPreferences.
+
+
+[![Watch the video](https://j.gifs.com/EqBN7g.gif)](https://www.youtube.com/watch?v=PTXwOBAjmsY&feature=youtu.be)
