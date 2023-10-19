@@ -10,4 +10,4 @@ Integrated setOnItemLongClickListener to remove items from the list.
 Use a SQLite Database with Android Studio and SharedPreferences.
 
 
-[![Watch the video](https://j.gifs.com/EqBN7g.gif)](https://www.youtube.com/watch?v=PTXwOBAjmsY&feature=youtu.be)
+[![Whatch in Youtube](https://img.youtube.com/vi/PTXwOBAjmsY/0.jpg)](https://www.youtube.com/watch?v=PTXwOBAjmsY)
